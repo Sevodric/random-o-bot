@@ -15,6 +15,7 @@
     "discord.js": "^11.5.1",
     "ffmpeg": "0.0.4",
     "node-opus": "^0.3.3",
-    "opusscript": "0.0.7"
+    "opusscript": "0.0.7",
+    "sodium": "^3.0.2"
   }
 }
